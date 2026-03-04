@@ -1,0 +1,19 @@
+appliance,detail,uhc,min_dn
+Water closet,,6,100
+Residential bathtub,,2,40
+Drinking fountain,,0.5,40
+Bidet,,1,40
+Shower,Residential,2,40
+Shower,Public,4,40
+Lavatory,Residential,1,40
+Lavatory,General use,2,40
+Urinal,Flush valve,6,75
+Urinal,Flush tank,5,50
+Urinal,Automatic flush,2,40
+Urinal,Trough,2,50
+Residential kitchen sink,,3,50
+Industrial kitchen sink,Preparation,3,50
+Industrial kitchen sink,Pot washing,4,50
+Laundry tray,,3,40
+Dishwasher,,2,50
+Washing machine,,3,50
